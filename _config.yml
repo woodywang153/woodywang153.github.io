@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Woodrow Wang"
-  avatar           : "woody.jpg"
+  avatar           : "woody_small.png"
   bio              : "Masters Student at Stanford University studying CS with a focus in AI. Interested in creating safe and prosocial AI."
   location         : "Stanford, California"
   employer         :
