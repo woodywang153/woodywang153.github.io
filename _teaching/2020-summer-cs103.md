@@ -1,5 +1,5 @@
 ---
-title: "CS103"
+title: "CS103: Mathematical Foundations of Computing"
 collection: teaching
 type: "Course Assistant"
 permalink: /teaching/2020-summer-cs103
